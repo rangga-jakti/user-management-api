@@ -27,10 +27,10 @@ This project represents **Phase 1**, where the goal is to define a solid API con
 ## Project Structure
 
 app/
-api/ # API route definitions
-schemas/ # Request & response schemas
-core/ # Application configuration
-main.py # Application entry point
+-api/ # API route definitions
+-schemas/ # Request & response schemas
+-core/ # Application configuration
+-main.py # Application entry point
 
 ---
 
